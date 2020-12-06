@@ -2,7 +2,7 @@
 
 > A Reactjs Application that compare between different products
 
-Deployed at : https://chohra-med.github.io/productComparaison/ 
+Deployed at : https://chohra-med.github.io/compareProduct/ 
 
 > tags: #react #ES6 #BABEL #WebPack #Redux #redux-saga #AntD
 >

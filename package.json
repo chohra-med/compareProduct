@@ -2,7 +2,7 @@
   "name": "particeep-react-test",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://chohra-med.github.io/productComparaison",
+  "homepage": "http://chohra-med.github.io/compareProduct",
   "dependencies": {
     "@ant-design/icons": "^4.3.0",
     "@testing-library/jest-dom": "^5.11.6",
